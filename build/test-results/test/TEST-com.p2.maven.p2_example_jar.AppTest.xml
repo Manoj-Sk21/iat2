@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.p2.maven.p2_example_jar.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-06-16T11:34:21" hostname="NEO" time="0.001">
+  <properties/>
+  <testcase name="testApp" classname="com.p2.maven.p2_example_jar.AppTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
